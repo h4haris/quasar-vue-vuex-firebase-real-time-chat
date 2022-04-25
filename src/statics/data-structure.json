@@ -1,0 +1,60 @@
+{
+  "chats": {
+    "l2qDviN0vOUpVpjLAbN2NYPW8X62": {
+      "o9IDMmPxbeS17oFPB17PThUo33b2": {
+        "MESSAGEID1": {
+          "from": "them",
+          "text": "Hi how are you?"
+        },
+        "MESSAGEID2": {
+          "from": "me",
+          "text": "Good thanks, how are you?"
+        }
+      }
+    },
+    "o9IDMmPxbeS17oFPB17PThUo33b2": {
+      "l2qDviN0vOUpVpjLAbN2NYPW8X62": {
+        "MESSAGEID1": {
+          "from": "me",
+          "text": "Hi how are you?"
+        },
+        "MESSAGEID2": {
+          "from": "them",
+          "text": "Good thanks, how are you?"
+        }
+      }
+    }
+  },
+  "users": {
+    "3YPA3BqwKUbyN7GaWJjLFwsNs2u2": {
+      "email": "user1@test.com",
+      "name": "User1",
+      "online": false
+    },
+    "9ikljBCkMNP5KjUZrz1Y084g2V02": {
+      "email": "user2@test.com",
+      "name": "User2",
+      "online": false
+    },
+    "WIB6PQZOEbM6g7RFzTdWuMhBBeI3": {
+      "email": "user3@test.com",
+      "name": "User3",
+      "online": false
+    },
+    "l2qDviN0vOUpVpjLAbN2NYPW8X62": {
+      "email": "user4@test.com",
+      "name": "User4",
+      "online": false
+    },
+    "o9IDMmPxbeS17oFPB17PThUo33b2": {
+      "email": "user5@test.com",
+      "name": "User5",
+      "online": false
+    },
+    "qPsIomnVw6ec7CZGCdTuwXhuRNB2": {
+      "email": "user6@test.com",
+      "name": "User6",
+      "online": true
+    }
+  }
+}

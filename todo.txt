@@ -1,0 +1,11 @@
+1. guards
+2. error handling
+3. login screen
+4. protect database by adding rules in firebase
+5. android and windows support
+6. icons and splashscreens
+7. cordova plugins for native functionalities
+8. desktop app -menu items and keyboard shortcuts
+9. add a settings page
+10. multiple vuex modules
+11. form validations
